@@ -1,10 +1,9 @@
 package main
 
 import (
+	"github.com/explabs/ad-ctf-paas-api/pkg/archive"
 	"log"
 	"net/http"
-
-	"github.com/explabs/ad-ctf-paas-api/pkg/archive"
 )
 
 func main() {
